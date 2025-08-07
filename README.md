@@ -3,7 +3,7 @@ Hi, I'm Sonny from Australia 🇦🇺<br>•	🔭 I'm working as a Fullstack Dev
 
 ## 🏆 Certifications & Awards:
 - **AWS Certified Developer – Associate** by AWS (Jul 2025) - [View Certificate](https://www.credly.com/badges/91c77066-3d8c-49da-8a89-d58a63cf95e0)
-- **Best Student Of Subject: Web Programming 1** by Greenwich University (Aug 2024) 
+- **Best Student Of Subject: Web Programming 1** by Greenwich University (Aug 2024) - [View Award](https://sonny-info.s3.ap-southeast-1.amazonaws.com/awards/best_student_award.jpeg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.thai.sonny.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonny-nguyen-1501b4278/) 
