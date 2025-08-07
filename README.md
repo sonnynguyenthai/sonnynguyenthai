@@ -30,8 +30,6 @@ Hi, I'm Sonny from Australia 🇦🇺<br>•	🔭 I'm working as a Fullstack Dev
 ![](https://nirzak-streak-stats.vercel.app/?user=sonnynguyenthai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnynguyenthai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sonnynguyenthai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
