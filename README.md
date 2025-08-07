@@ -2,8 +2,8 @@
 Hi, I'm Sonny from Australia 🇦🇺<br>•	🔭 I'm working as a Fullstack Developer <br>•	📚 I'm currently studying for my Bachelor of Information Technology at Torrens University <br>•	⚡ In my free time, I explore new tech trends, build side projects, and enjoy outdoor adventures
 
 ## 🏆 Certifications & Awards:
-- **AWS Certified Developer – Associate** by AWS (Jul 2025)
-- **Best Student Of Subject: Web Programming 1** by Greenwich University (Aug 2024) - [View Certificate](https://www.credly.com/badges/91c77066-3d8c-49da-8a89-d58a63cf95e0)
+- **AWS Certified Developer – Associate** by AWS (Jul 2025) - [View Certificate](https://www.credly.com/badges/91c77066-3d8c-49da-8a89-d58a63cf95e0)
+- **Best Student Of Subject: Web Programming 1** by Greenwich University (Aug 2024) 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.thai.sonny.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonny-nguyen-1501b4278/) 
