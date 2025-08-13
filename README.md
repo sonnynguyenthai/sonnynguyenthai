@@ -25,10 +25,7 @@ Hi, I'm Sonny from Australia 🇦🇺<br>•	🔭 I'm working as a Fullstack Dev
 ## Tools & Services
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C1?style=for-the-badge&logo=cloudinary&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=recharts&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sonnynguyenthai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sonnynguyenthai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnynguyenthai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ### ✍️ Random Dev Quote
