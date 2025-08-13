@@ -26,12 +26,3 @@ Hi, I'm Sonny from Australia 🇦🇺<br>•	🔭 I'm working as a Fullstack Dev
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C1?style=for-the-badge&logo=cloudinary&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=recharts&logoColor=white)
 
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=sonnynguyenthai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
