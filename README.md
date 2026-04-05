@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I'm Sonny from Australia 🇦🇺<br>•	🔭 I'm working as a Fullstack Developer <br>•	📚 I'm currently studying for my Bachelor of Information Technology at Torrens University <br>•	⚡ In my free time, I explore new tech trends, build side projects, and enjoy outdoor adventures
+Hi, I'm Sonny — a **Backend & Cloud Engineer based in Australia 🇦🇺**  
+
+• 🔭 Building **scalable SaaS systems on AWS** (AI-powered, microservices)  
+• 💼 Experienced as a **Fullstack Developer delivering production-ready applications**  
+• 🎓 Studying **Bachelor of Information Technology at Torrens University (GPA: 3.9/4)**  
+• ⚡ Focused on **system design, performance, and cloud architecture**  
+• 🌱 Exploring **distributed systems, DevOps, and new technologies**  
 
 ## 🏆 Certifications & Awards:
 - **AWS Certified Developer – Associate** by AWS (Jul 2025) - [View Certificate](https://www.credly.com/badges/91c77066-3d8c-49da-8a89-d58a63cf95e0)
